@@ -1,0 +1,9 @@
+{
+	"name": "sbradf",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b217f38-67e6-4b73-b740-d922a312d710",
+		"tenantId": "f9e0872b-1350-4980-9761-1e2a0ee65d1c"
+	}
+}
